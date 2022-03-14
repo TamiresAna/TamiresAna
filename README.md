@@ -15,7 +15,7 @@
   <img align="center" alt="Tami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt= "tami-gif" height="200" width="220" src="https://media.discordapp.net/attachments/875749612718288946/952942800394141696/1647225976801.gif"/>
+  <img align="right" alt= "tami-gif" height="148" width="138" src="https://media.discordapp.net/attachments/875749612718288946/952942800394141696/1647225976801.gif"/>
   </div>
   
   ##
