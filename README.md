@@ -1,7 +1,8 @@
-### Olá! Eu sou a Tamires Ana 👋
+### Hi! I'm Tamires Ana 👋
 
-- 🔭 Eu estou em processo de transição de carreia front-end
-- 🌱 Estou estudando atualmente HTML, CSS e JavaScript
+- 🔭 I'm in the process of transitioning to a front-end career
+- 💻 I'm currently studying HTML, CSS e JavaScript
+- 👩‍💼 I'm currently working Quality Analyst
 - 👯 I’m looking to collaborate on Front-end
 - 😄 Pronouns: ele/ela
 
@@ -24,7 +25,9 @@
      
   <a href="https://www.instagram.com/tamiresanap/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/tamires-ana-7a7677173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://web.whatsapp.com/send?phone=55942390985" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     
+        
   ![Snake animation](https://github.com/TamiresAna/TamiresAna/blob/output/github-contribution-grid-snake.svg)
     
   </div>
