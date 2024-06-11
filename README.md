@@ -1,9 +1,9 @@
 ### Hi! I'm Tamires Ana 👋
 
 - 🔭 I'm in the process of transitioning to a front-end career
-- 💻 I'm currently studying HTML, CSS, JavaScript e Java
+- 💻 I'm currently studying HTML, CSS, Python e Java
 - 👩‍💼 I'm currently working Quality Analyst
-- 👯 I’m looking to collaborate on Front-end
+- 👯 I’m looking to collaborate on Back-End
 - 😄 Pronouns: ele/ela
 
 <div align="center">
